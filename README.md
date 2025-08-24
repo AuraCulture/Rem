@@ -56,3 +56,5 @@ This package includes all necessary dependencies (rembg, Pillow) bundled within 
 ## License
 
 MIT License - see LICENSE file for details.
+
+Made by 🪙
