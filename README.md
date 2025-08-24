@@ -1,11 +1,12 @@
 # Remove The BG
 
-
+```bash
+rem 
+```
 
 
 <img width="1584" height="396" alt="Junk (2)-modified" src="https://github.com/user-attachments/assets/88978f11-7378-4da6-819c-0567df443b15" />
 
-A self-contained Python package for removing backgrounds from images with no external dependencies.
 
 ## Features
 
