@@ -51,7 +51,7 @@ process_folder('/path/to/images')
 
 ## How it Works
 
-This package includes all necessary dependencies (rembg, Pillow) bundled within the package itself, so you don't need to worry about installing additional dependencies or dealing with version conflicts.
+This package includes all necessary dependencies (Trained AI models, pillow)bundled within the package itself, so you don't need to worry about installing additional dependencies or dealing with version conflicts.
 
 ## License
 
