@@ -1,5 +1,6 @@
 # Remove The BG
 
+
 ```bash
 rem 
 ```
@@ -7,6 +8,20 @@ rem
 
 <img width="1584" height="396" alt="Junk (2)-modified" src="https://github.com/user-attachments/assets/88978f11-7378-4da6-819c-0567df443b15" />
 
+---
+
+# Platform Notes: Windows vs Unix
+
+## Unix/Linux/macOS
+- The `rem` command works out of the box in **Bash**, **Zsh**, and other shells.  
+- No naming conflicts; just use `rem` as shown above.  
+
+## Windows
+- In **PowerShell**, `rem` works as expected.  
+- In **Command Prompt (cmd.exe)**, `rem` is a built-in command for comments, which can cause conflicts.  
+- If you encounter issues in Command Prompt, use **PowerShell** or run with full path "C:\Users\your_pc_name\AppData\Local\Programs\Python\Python39\Scripts\rem.exe" image_name
+
+---
 
 ## Features
 
@@ -27,7 +42,7 @@ pip install remove-the-bg
 ### Command Line
 
 Remove backgrounds from all images in a folder:
-```bash
+```powershell
 rem /path/to/your/images
 ```
 
